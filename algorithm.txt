@@ -1,0 +1,20 @@
+Step 1: Start.
+Step 2: Ask the user to enter the grade. Store it as grade.
+Step 3: Check if grade is 60 or above.
+Step 4: If yes, display "Passed".
+Step 5: If no, display "Failed".
+Step 6: End.
+
+Step 1: Start.
+Step 2: Ask the user to enter the grade. Store it as grade.
+Step 3: Check if grade is 60 or above.
+Step 4: If yes, display "Passed".
+Step 5: If no, display "Failed".
+Step 6: End.
+
+Step 1: Start.
+Step 2: Ask the user to enter a number. Store it as number.
+Step 3: Check if number is greater than or equal to 0.
+Step 4: If yes, display "Positive".
+Step 5: If no, display "Negative".
+Step 6: End.
